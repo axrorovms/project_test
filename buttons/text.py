@@ -1,0 +1,6 @@
+register = 'register🖨'
+location = 'location📍'
+hamburgers = 'hamburgers'
+lavash = 'lavash'
+hot_dog = 'hot_dog'
+drink = 'drinks'
