@@ -8,3 +8,5 @@ while True:
     pass
 
 print('my name is Sulton')
+
+print('my name is Dilshod')
